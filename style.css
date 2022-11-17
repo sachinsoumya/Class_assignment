@@ -1,0 +1,55 @@
+.contain {
+    width: 85rem;
+    margin:auto
+
+
+}
+
+.bdy {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    border-radius: 50%;
+    border: 2px solid red;
+    margin-top: 40px;
+    
+
+
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+
+}
+
+.horizontal {
+    color: skyblue;
+    font-weight: bold;
+}
+
+.about {
+    width: 70rem;
+}
+
+.head1 {
+    color: tomato;
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.des1 {
+    text-align: left;
+    font-size: 25px;
+}
